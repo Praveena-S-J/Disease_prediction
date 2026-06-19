@@ -1,0 +1,14 @@
+{
+    "accuracy": 0.96,
+    "precision": 0.95,
+    "recall": 0.94,
+    "f1_score": 0.95,
+    "n_train": 800,
+    "n_test": 200,
+    "classes": [
+        "Anemia",
+        "Diabetes",
+        "Healthy",
+        "Thalassemia"
+    ]
+}
